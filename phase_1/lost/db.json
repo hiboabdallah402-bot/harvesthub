@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "itemName": "National ID",
+      "category": "Document",
+      "location": "Bus Station",
+      "status": "Lost",
+      "contact": "0701234567",
+      "date": "2026-02-03"
+    },
+    {
+      "id": "2",
+      "itemName": "Samsung Galaxy Phone",
+      "category": "Electronics",
+      "location": "City Mall",
+      "status": "Found",
+      "contact": "0712345678",
+      "date": "2026-02-02"
+    },
+    {
+      "itemName": "Black Backpack",
+      "category": "Bag",
+      "location": "University Library",
+      "status": "Lost",
+      "contact": "0723456789",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "itemName": "ATM Card",
+      "category": "Document",
+      "location": "Bank Entrance",
+      "status": "Found",
+      "contact": "0734567890",
+      "date": "2026-01-31"
+    },
+    {
+      "id": "5",
+      "itemName": "House Keys",
+      "category": "Keys",
+      "location": "Matatu Stage",
+      "status": "Lost",
+      "contact": "0745678901",
+      "date": "2026-01-30"
+    },
+    {
+      "id": "6",
+      "itemName": "Brown Wallet",
+      "category": "Wallet",
+      "location": "Supermarket",
+      "status": "Found",
+      "contact": "0756789012",
+      "date": "2026-01-29"
+    },
+    {
+      "id": "7",
+      "itemName": "Laptop Charger",
+      "category": "Electronics",
+      "location": "Cyber Cafe",
+      "status": "Lost",
+      "contact": "0767890123",
+      "date": "2026-01-28"
+    },
+    {
+      "id": "8",
+      "itemName": "School Bag",
+      "category": "Bag",
+      "location": "Primary School",
+      "status": "Found",
+      "contact": "0778901234",
+      "date": "2026-01-27"
+    },
+    {
+      "id": "9",
+      "itemName": "Driving License",
+      "category": "Document",
+      "location": "Petrol Station",
+      "status": "Lost",
+      "contact": "0789012345",
+      "date": "2026-01-26"
+    },
+    {
+      "id": "10",
+      "itemName": "Bluetooth Earphones",
+      "category": "Electronics",
+      "location": "Gym",
+      "status": "Found",
+      "contact": "0790123456",
+      "date": "2026-01-25"
+    },
+    {
+      "id": "11",
+      "itemName": "Office ID Card",
+      "category": "Document",
+      "location": "Office Building",
+      "status": "Lost",
+      "contact": "0711122233",
+      "date": "2026-01-24"
+    },
+    {
+      "id": "12",
+      "itemName": "Umbrella",
+      "category": "Personal Item",
+      "location": "Bus Stop",
+      "status": "Found",
+      "contact": "0722233344",
+      "date": "2026-01-23"
+    },
+    {
+      "id": "13",
+      "itemName": "Iphone 12",
+      "category": "Electronic",
+      "location": "Aqsa mall",
+      "status": "Found",
+      "contact": "0764556776",
+      "date": "2026-01-22"
+    },
+    {
+      "id": "14",
+      "itemName": "xijaab",
+      "category": "cloth",
+      "location": "University Library",
+      "status": "Lost",
+      "date": "2025-12-12",
+      "contact": "0734569812"
+    }
+  ]
+}
